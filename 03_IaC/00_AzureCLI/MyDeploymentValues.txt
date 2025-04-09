@@ -1,5 +1,5 @@
-botSubDomain=albot.vsalis.eu
-botName=myTeamsRecBot
-projectPrefix=albot
+botSubDomain=dev.meetingbot.starlightai.ai
+botName=HighvernCosecBot
+projectPrefix=highverncosec
 azureLocation=northeurope
 acrName=albotacr
